@@ -26,7 +26,7 @@ npx playwright install
 npx playwright test
 ```
 
-Запуск тестов с отобрадение браузера
+Запуск тестов с отображением браузеров
 
 ```bash
 npx playwright test --headed
