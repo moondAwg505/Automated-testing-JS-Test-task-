@@ -9,8 +9,9 @@
 * TypeScript
 * Playwright
 * Node.js
+* Git Bash
 
-## установка
+## Установка
 
 ```bash
 npm install
